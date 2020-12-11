@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#302E2E</color>
+    <color name="colorPrimaryDark">#030303</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent_color">#10A9A9A9</color>
+    <color name="color_black">#000000</color>
+    <color name="primaryBlue">#3665F4</color>
+    <color name="dot_color">#A2807C7C</color>
+    <color name="tint_back">#E1262525</color>
+    <color name="bottom_nav_item_selector">#383232</color>
+    <color name="text_color_white">#F9F5F5</color>
+</resources>
